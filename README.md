@@ -9,3 +9,6 @@ This simulation allows you to visualise the LED movement, the current state of t
 <p float="left">
   <img src="images/Simulator.png" height="200" />
 </p>
+
+## Contributors
+[Squalene](https://github.com/Squalene), [loh0um](https://github.com/loh0um)
